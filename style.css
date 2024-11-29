@@ -40,6 +40,7 @@ body {
 .img-product-mobile {
   border-radius: 1rem 1rem 0 0;
   width: 100%;
+  display: block;
 }
 
 .category {
